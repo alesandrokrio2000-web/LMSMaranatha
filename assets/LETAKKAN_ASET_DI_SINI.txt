@@ -1,0 +1,3 @@
+Letakkan file berikut di folder ini:
+- logo_maranatha.png  (logo sekolah)
+- bg_sekolah.jpg      (gambar latar, opsional)
